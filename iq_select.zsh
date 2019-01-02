@@ -1,4 +1,5 @@
 #!/usr/bin/zsh
 
-# filter and select item
+# Filter and select item
+# TODO Investigate
 #https://github.com/nakamuray/zsh-filter-select
